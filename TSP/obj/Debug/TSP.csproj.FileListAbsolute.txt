@@ -1,0 +1,6 @@
+c:\users\bartlomiej\documents\visual studio 2013\Projects\TSP\TSP\bin\Debug\TSP.exe.config
+c:\users\bartlomiej\documents\visual studio 2013\Projects\TSP\TSP\bin\Debug\TSP.exe
+c:\users\bartlomiej\documents\visual studio 2013\Projects\TSP\TSP\bin\Debug\TSP.pdb
+c:\users\bartlomiej\documents\visual studio 2013\Projects\TSP\TSP\obj\Debug\TSP.csprojResolveAssemblyReference.cache
+c:\users\bartlomiej\documents\visual studio 2013\Projects\TSP\TSP\obj\Debug\TSP.exe
+c:\users\bartlomiej\documents\visual studio 2013\Projects\TSP\TSP\obj\Debug\TSP.pdb
