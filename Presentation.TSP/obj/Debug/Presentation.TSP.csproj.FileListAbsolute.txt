@@ -1,0 +1,11 @@
+C:\Users\Bartlomiej\Documents\Visual Studio 2013\Projects\TSP\Presentation.TSP\bin\Debug\Presentation.TSP.exe.config
+C:\Users\Bartlomiej\Documents\Visual Studio 2013\Projects\TSP\Presentation.TSP\bin\Debug\Presentation.TSP.exe
+C:\Users\Bartlomiej\Documents\Visual Studio 2013\Projects\TSP\Presentation.TSP\bin\Debug\Presentation.TSP.pdb
+C:\Users\Bartlomiej\Documents\Visual Studio 2013\Projects\TSP\Presentation.TSP\bin\Debug\TSP.exe
+C:\Users\Bartlomiej\Documents\Visual Studio 2013\Projects\TSP\Presentation.TSP\bin\Debug\TSP.pdb
+C:\Users\Bartlomiej\Documents\Visual Studio 2013\Projects\TSP\Presentation.TSP\obj\Debug\Presentation.TSP.csprojResolveAssemblyReference.cache
+C:\Users\Bartlomiej\Documents\Visual Studio 2013\Projects\TSP\Presentation.TSP\obj\Debug\Presentation.TSP.Form1.resources
+C:\Users\Bartlomiej\Documents\Visual Studio 2013\Projects\TSP\Presentation.TSP\obj\Debug\Presentation.TSP.Properties.Resources.resources
+C:\Users\Bartlomiej\Documents\Visual Studio 2013\Projects\TSP\Presentation.TSP\obj\Debug\Presentation.TSP.csproj.GenerateResource.Cache
+C:\Users\Bartlomiej\Documents\Visual Studio 2013\Projects\TSP\Presentation.TSP\obj\Debug\Presentation.TSP.exe
+C:\Users\Bartlomiej\Documents\Visual Studio 2013\Projects\TSP\Presentation.TSP\obj\Debug\Presentation.TSP.pdb
